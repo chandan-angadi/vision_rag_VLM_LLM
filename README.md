@@ -72,7 +72,7 @@ This notebook demonstrates a functional pipeline for building a Retrieval-Augmen
 ## Dependencies
 
 - Python 3.7+
-- Libraries: `langchain`, `PyMuPDF`, `FAISS`, `Pillow`, `re`
+- Libraries: `langchain`, `PyMuPDF`, `FAISS`
 
 ## Acknowledgments
 
