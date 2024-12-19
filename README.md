@@ -1,4 +1,4 @@
-# RAG Vision Functional Notebook
+# RAG Vision using VLM and LLM
 
 This notebook demonstrates a functional pipeline for building a Retrieval-Augmented Generation (RAG) system with image and text processing capabilities using local llama3.2 and llama3.2 vision model. It extracts content from PDFs, processes images, creates vector stores, and allows for context-based query answering.
 
